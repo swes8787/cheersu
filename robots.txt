@@ -1,1 +1,4 @@
-﻿Sitemap: http://www.cheersu.cf/sitemap.xml
+User-agent: *
+Disallow:
+
+Sitemap: http://www.cheersu.cf/sitemap.xml
